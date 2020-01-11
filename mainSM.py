@@ -1,11 +1,3 @@
-# In DZD we have 1, 2, 5, 10, 20, 50, 100, 500, 1000, 2000 coins
-# You can change the table to your country's coins
-# ---------------------------------- NOTE --------------------------------------
-# | I know that the Algerians will never use this progrm except in some "RARE" |
-# | cases because they will always ask for the SERF and they will let you      |
-# | go and bring the SERF even if you don't carry any.                         |
-# ------------------------------------------------------------------------------
-
 def houwMuchShouldIGiveBack(token):
     inDZD = [2000, 1000, 500, 200, 100, 50, 20, 10, 5, 2, 1]
     for i in inDZD:
